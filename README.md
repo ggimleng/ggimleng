@@ -1,4 +1,4 @@
-### [![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+mono&pause=1000&color=F7F7F7&width=435&lines=Hi+I'm+Leng)](https://git.io/typing-svg)
+### [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=CC4747&width=435&lines=Hi+I'm+Leng)](https://git.io/typing-svg)
 
 :wave: My full name is Nawapon Nuangjumnong. I'm currently a survey engineering student at Chulalongkorn University. I've loved coding ever since I was in high school and set up a game server with my buddies, because I believe it's exciting to make something that everyone can use and have fun with it, I also enjoy performing graphic editing, such as image and video editing.
 
