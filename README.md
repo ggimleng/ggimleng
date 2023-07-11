@@ -6,5 +6,5 @@
 <a href="https://facebook.com/LENGHUP/" target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/Linkedin-blue?style=flat&logo=linkedin"></a>
 <a href="https://facebook.com/LENGHUP/" target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/facebook-blue?style=flat&logo=facebook&color=white"></a>
 <a href="https://www.instagram.com/_gimleng/" target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/Instagram-purple?style=flat&logo=Instagram&logoColor=white"></a>
-<a href="[https://www.instagram.com/_gimleng/](https://github.com/ggimleng)" target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/Github-black?style=flat&logo=github"></a>
+<a href="https://github.com/gimleng" target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/Github-black?style=flat&logo=github"></a>
 </p>
